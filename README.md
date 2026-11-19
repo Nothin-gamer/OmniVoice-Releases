@@ -1,36 +1,38 @@
-# OmniVoice AI — Official Android Releases
+# OmniVoice AI — Official Releases (Android & Windows)
 
-Welcome to the official public release channel for **OmniVoice AI** — a hands-free Android voice & automation assistant with compound multi-app workflows, custom routines, themed Glass HUD, and in-app updates.
-
-> **Direct Latest APK Download:**
-> [**Download OmniVoice-latest.apk**](https://github.com/Nothin-gamer/OmniVoice-Releases/releases/latest/download/OmniVoice-latest.apk)
+Welcome to the official public release channel for **OmniVoice AI** — a hands-free voice & automation assistant with compound multi-app workflows, custom macros, persistent memory, themed Glass HUD, and in-app updates for both **Android** and **Windows 10/11**.
 
 ---
 
-## Quick Installation
+## Direct Latest Downloads
+
+| Platform | Package | Download Link |
+|---|---|---|
+| **Android** (7.0+) | Signed APK | [**Download OmniVoice-latest.apk**](https://github.com/Nothin-gamer/OmniVoice-Releases/releases/latest/download/OmniVoice-latest.apk) |
+| **Windows 10 / 11** (64-bit) | Windows Installer (`.exe`) | [**Download OmniVoice-Windows-Setup.exe**](https://github.com/Nothin-gamer/OmniVoice-Releases/releases/latest/download/OmniVoice-Windows-Setup.exe) |
+
+---
+
+## Android Installation
 
 1. Tap [**Download OmniVoice-latest.apk**](https://github.com/Nothin-gamer/OmniVoice-Releases/releases/latest/download/OmniVoice-latest.apk) on your Android device (Android 7.0 / API 24 or newer).
 2. Open the downloaded `.apk` file from your notification bar or **Files** app.
 3. If prompted by Android, enable **Install unknown apps** for your browser or file manager.
-4. Confirm **Install** (or **Update** if you already have an official Release build installed—your chats, themes, and routines remain intact).
+4. Confirm **Install** (or **Update** over your existing release build—your chats, themes, and routines remain intact).
+
+## Windows 10 / 11 Installation
+
+1. Download [**OmniVoice-Windows-Setup.exe**](https://github.com/Nothin-gamer/OmniVoice-Releases/releases/latest/download/OmniVoice-Windows-Setup.exe).
+2. Double-click the installer to install **OmniVoice AI** (or upgrade smoothly over an older version) and create your Start Menu / Desktop shortcuts.
+
+> **Tip:** Both Android and Windows versions store your threads, memories, routines, and API keys locally on your device.
 
 ## Checking for Future Updates Inside the App
 
-You never have to hunt for links manually:
-
-1. Open **OmniVoice AI** and go to **Settings**.
-2. Tap **Check for updates** in the **App updates** card.
-3. When a new build is published here, tap **Download APK** right inside Settings.
-
-## Permissions Overview
-
-OmniVoice requests only the permissions needed for the actions you trigger:
-
-- **Microphone** — Voice commands and optional wake-word listening.
-- **Accessibility Service (Optional)** — Hands-free cross-app automation (WhatsApp sending, YouTube video playback, camera shutter capture, and screenshots).
-- **Display over other apps (Optional)** — Floating live workflow card and Dynamic Island overlay while using other apps.
-- **Notification Access (Optional)** — Reading or summarizing incoming alerts by voice.
+1. Open **OmniVoice AI** (Android or Windows Desktop) and go to **Settings**.
+2. Click **Check for Updates** in the **App Updates** card.
+3. When a new version is published here, download the latest `.apk` or `.exe` installer right from Settings.
 
 ## Verifying Your Download
 
-Each release entry on the [**Releases**](https://github.com/Nothin-gamer/OmniVoice-Releases/releases) page includes the exact **SHA-256 checksum** for `OmniVoice-latest.apk` so you can verify file integrity before installing.
+Each release entry on the [**Releases**](https://github.com/Nothin-gamer/OmniVoice-Releases/releases) page includes exact **SHA-256 checksums** for both Android and Windows packages so you can verify file integrity before installing.
