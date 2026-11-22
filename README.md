@@ -1,8 +1,8 @@
 # OmniVoice AI — Official Releases (Android & Windows)
 
-> **Latest Release:** `v1.0.30` (versionCode `40`) · Updated `2026-11-21 15:33 UTC` · [Release Notes](https://github.com/Nothin-gamer/OmniVoice-Releases/releases/tag/v1.0.30)
-> - Android APK SHA-256: `1fa526202a732523db67421b9307b575a3c77de5add2b929bed3df62741c50ab`
-> - Windows Setup EXE SHA-256: `c0208c197b1d47acd2ca27a45f2d5eedf5808e9f465828f4ac34d8a99d84e291`
+> **Latest Release:** `v1.0.33` (versionCode `43`) · Updated `2026-11-22 11:05 UTC` · [Release Notes](https://github.com/Nothin-gamer/OmniVoice-Releases/releases/tag/v1.0.33)
+> - Android APK SHA-256: `000b31bac5e56f8f313a7b1d6c85e2d4de7d9332599c60220ec6bc38fbd8a65e`
+> - Windows Setup EXE SHA-256: `2e19e56d47b3a2b6ea27027a28613d2c23511eef8513e8890d382e191e66c084`
 
 Welcome to the official public release channel for **OmniVoice AI** — a hands-free voice & automation assistant with compound multi-app workflows, custom macros, persistent memory, themed Glass HUD, and in-app updates for both **Android** and **Windows 10/11**.
 
